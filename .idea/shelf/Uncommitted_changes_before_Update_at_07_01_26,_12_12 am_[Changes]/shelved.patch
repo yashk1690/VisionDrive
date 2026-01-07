@@ -1,0 +1,151 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"567e4df7-03f0-4a84-a9ca-b7d19e13dea5\" name=\"Changes\" comment=\"hello\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/main.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/main.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"yashk1690\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\n  \"selectedUrlAndAccountId\": {\n    \"url\": \"https://github.com/yashk1690/VisionDrive.git\",\n    \"accountId\": \"36ccd162-4f26-474e-9ba5-ca7caebbfcaf\"\n  }\n}]]></component>\n  <component name=\"McpProjectServerCommands\">\n    <commands />\n    <urls />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 0\n}]]></component>\n  <component name=\"ProjectId\" id=\"37tVN89uCS3YkwcBiDsdm9xD8Q4\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.MCP Project settings loaded\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\n    \"ai.playground.ignore.import.keys.banner.in.settings\": \"true\",\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"junie.onboarding.icon.badge.shown\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"to.speed.mode.migration.done\": \"true\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142\" />\n        <option value=\"bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"567e4df7-03f0-4a84-a9ca-b7d19e13dea5\" name=\"Changes\" comment=\"\" />\n      <created>1767722312842</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1767722312842</updated>\n      <workItem from=\"1767722313859\" duration=\"334000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"hello\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1767722380126</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1767722380126</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"hello\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1767722398068</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1767722398068</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"hello\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1767722480353</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1767722480353</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"hello\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"hello\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3edfdbae84e74bf10cd4fb1014037306defe47f2)
++++ b/.idea/workspace.xml	(date 1767724898717)
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="567e4df7-03f0-4a84-a9ca-b7d19e13dea5" name="Changes" comment="hello">
++    <list default="true" id="567e4df7-03f0-4a84-a9ca-b7d19e13dea5" name="Changes" comment="hello1">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -16,50 +15,50 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "yashk1690"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;yashk1690&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings"><![CDATA[{
+   "selectedUrlAndAccountId": {
+     "url": "https://github.com/yashk1690/VisionDrive.git",
+-    "accountId": "36ccd162-4f26-474e-9ba5-ca7caebbfcaf"
++    "accountId": "ffc4100e-d0d5-4f6e-8338-ebf0054381d3"
+   }
+ }]]></component>
+   <component name="McpProjectServerCommands">
+     <commands />
+     <urls />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 0
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 0
++}</component>
+   <component name="ProjectId" id="37tVN89uCS3YkwcBiDsdm9xD8Q4" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.MCP Project settings loaded": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "master",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "to.speed.mode.migration.done": "true",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
++    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
++    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -76,6 +75,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1767722312842</updated>
+       <workItem from="1767722313859" duration="334000" />
++      <workItem from="1767722883079" duration="1686000" />
+     </task>
+     <task id="LOCAL-00001" summary="hello">
+       <option name="closed" value="true" />
+@@ -101,7 +101,31 @@
+       <option name="project" value="LOCAL" />
+       <updated>1767722480353</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="hello">
++      <option name="closed" value="true" />
++      <created>1767722915749</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1767722915749</updated>
++    </task>
++    <task id="LOCAL-00005" summary="hello1">
++      <option name="closed" value="true" />
++      <created>1767723006466</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1767723006466</updated>
++    </task>
++    <task id="LOCAL-00006" summary="hello1">
++      <option name="closed" value="true" />
++      <created>1767723044443</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1767723044443</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -109,6 +133,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="hello" />
+-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
++    <MESSAGE value="hello1" />
++    <option name="LAST_COMMIT_MESSAGE" value="hello1" />
+   </component>
+ </project>
+\ No newline at end of file
