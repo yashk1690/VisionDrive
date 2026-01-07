@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="567e4df7-03f0-4a84-a9ca-b7d19e13dea5" name="Changes" comment="matplotlib packages">
+      <change afterPath="$PROJECT_DIR$/vehicledetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/eg_1.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanedetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lanedetection.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +23,12 @@
     &quot;assignee&quot;: &quot;yashk1690&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yashk1690/VisionDrive.git",
-    "accountId": "ffc4100e-d0d5-4f6e-8338-ebf0054381d3"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yashk1690/VisionDrive.git&quot;,
+    &quot;accountId&quot;: &quot;36ccd162-4f26-474e-9ba5-ca7caebbfcaf&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -69,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yash1\Documents\PROJECTS\VisionDrive" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -88,7 +90,6 @@
       <option name="presentableId" value="Default" />
       <updated>1767722312842</updated>
       <workItem from="1767722313859" duration="334000" />
-      <workItem from="1767808852209" duration="534000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <option name="closed" value="true" />
@@ -122,15 +123,7 @@
       <option name="project" value="LOCAL" />
       <updated>1767808741892</updated>
     </task>
-    <task id="LOCAL-00005" summary="matplotlib packages">
-      <option name="closed" value="true" />
-      <created>1767808808531</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1767808808531</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
