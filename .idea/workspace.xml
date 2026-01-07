@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567e4df7-03f0-4a84-a9ca-b7d19e13dea5" name="Changes" comment="hello1">
+    <list default="true" id="567e4df7-03f0-4a84-a9ca-b7d19e13dea5" name="Changes" comment="hello">
+      <change afterPath="$PROJECT_DIR$/lanedetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VisionDrive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/VisionDrive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lanedetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/lanedetection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,6 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.lanedetection.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,15 +113,7 @@
       <option name="project" value="LOCAL" />
       <updated>1767722480353</updated>
     </task>
-    <task id="LOCAL-00004" summary="hello1">
-      <option name="closed" value="true" />
-      <created>1767807715056</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1767807715056</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,11 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <MESSAGE value="hello1" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello1" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/VisionDriveFinal$main.coverage" NAME="main Coverage Results" MODIFIED="1767807611358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/VisionDriveFinal$lanedetection.coverage" NAME="lanedetection Coverage Results" MODIFIED="1767808518548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
